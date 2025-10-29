@@ -5,9 +5,6 @@ This project demonstrates **real-time fraud detection** in Instant Payment Syste
 It implements **supervised**, **unsupervised**, and **semi-supervised** models to compare accuracy, detection time, and overall performance.  
 The application is built with **Streamlit** and uses simulated transaction data to replicate a live streaming environment.
 
-🔗 **Live Demo:** [https://yourusername-frauddetector.streamlit.app](https://yourusername-frauddetector.streamlit.app)  
-📂 **Source Code:** [https://github.com/sharhaynes/Fraud-Detection](https://github.com/sharhaynes/Fraud-Detection)
-
 ---
 
 ## Overview
@@ -47,6 +44,25 @@ Users can upload datasets, train models, visualize performance metrics, and meas
 - **Semi-Supervised Learning:** Label Propagation / Self-training Classifier  
 
 ---
+## Live Demos
+
+| Type | Live Demo | Source Code |
+|------|------------|--------------|
+| 🧩 Supervised | [Streamlit App](https://your-supervised.streamlit.app) | [supervised_app](./supervised_app) |
+| 🌀 Unsupervised | [Streamlit App](https://your-unsupervised.streamlit.app) | [unsupervised_app](./unsupervised_app) |
+| 🔄 Semi-Supervised | [Streamlit App](https://your-semisupervised.streamlit.app) | [semi_supervised_app](./semi_supervised_app) |
+
+---
+
+## License
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## Author
+**T'Shara Haynes**  
+📧 [haynestshara0@gmail.com]
+🌐 [yourportfolio.github.io](https://yourportfolio.github.io)
 
 ## Running the Application Locally
 
