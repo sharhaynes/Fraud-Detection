@@ -76,6 +76,6 @@ This project is licensed under the **Apache 2.0 License** — see the [LICENSE](
 2. **Install dependencies**
  ```bash
    pip install -r requirements.txt
-*
+
 
 
