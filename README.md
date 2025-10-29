@@ -73,3 +73,9 @@ This project is licensed under the **Apache 2.0 License** — see the [LICENSE](
    git clone https://github.com/sharhaynes/Fraud-Detection.git
    cd Fraud-Detection
 *
+2. **Install dependencies**
+ ```bash
+   pip install -r requirements.txt
+*
+
+
