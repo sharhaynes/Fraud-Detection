@@ -49,9 +49,6 @@ Users can upload datasets, train models, visualize performance metrics, and meas
 | Type | Live Demo | Source Code |
 |------|------------|--------------|
 | 🧩 Supervised | [Streamlit App](https://your-supervised.streamlit.app) | [supervised_app](./supervised_app) |
-| 🌀 Unsupervised | [Streamlit App](https://your-unsupervised.streamlit.app) | [unsupervised_app](./unsupervised_app) |
-| 🔄 Semi-Supervised | [Streamlit App](https://your-semisupervised.streamlit.app) | [semi_supervised_app](./semi_supervised_app) |
-
 ---
 
 ## License
