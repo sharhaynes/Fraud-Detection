@@ -1,9 +1,9 @@
 # Fraud-Detection
 Generated fraud detection in Instant Payment Systems using multiple machine learning approaches (supervised, unsupervised, semi-supervised)
 
-# 💳 Fraud Detection in Instant Payment Systems
+# Fraud Detection in Instant Payment Systems
 
-This project demonstrates **real-time fraud detection** in Instant Payment Systems using **machine learning**.  
+This project demonstrates **real-time fraud detection** in Instant Payment Systems using **machine learning**. 
 It features **supervised, unsupervised, and semi-supervised** models, allowing users to compare accuracy, detection time, and overall performance.  
 The app is built with **Streamlit** and simulates a live transaction stream for interactive testing.
 
@@ -12,17 +12,17 @@ The app is built with **Streamlit** and simulates a live transaction stream for 
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧩 Compare **supervised**, **unsupervised**, and **semi-supervised** models  
-- ⏱️ Measure detection time per transaction (based on simulation steps)  
-- 📊 Visualize results with ROC curves, confusion matrices, and metrics  
-- 💻 Built with Streamlit for a fully interactive web experience  
-- 🔁 Simulated transaction data to replicate real-time fraud detection
+- Compare **supervised**, **unsupervised**, and **semi-supervised** models  
+- Measure detection time per transaction (based on simulation steps)  
+- Visualize results with ROC curves, confusion matrices, and metrics  
+- Built with Streamlit for a fully interactive web experience  
+- Simulated transaction data to replicate real-time fraud detection
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |-----------|--------|
@@ -34,7 +34,7 @@ The app is built with **Streamlit** and simulates a live transaction stream for 
 
 ---
 
-## 🧩 Models Included
+## Models Included
 
 - **Supervised Learning:** Logistic Regression, Random Forest, XGBoost (optional)
 - **Unsupervised Learning:** Isolation Forest, One-Class SVM
@@ -42,6 +42,6 @@ The app is built with **Streamlit** and simulates a live transaction stream for 
 
 ---
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 1. **Clone this repository**
