@@ -53,7 +53,7 @@ Users can upload datasets, train models, visualize performance metrics, and meas
 
 | Type | Live Demo | Source Code |
 |------|------------|--------------|
-| 🧩 Supervised | [Streamlit App](https://your-supervised.streamlit.app) | [supervised_app](./supervised_app) |
+| 🧩 Supervised | (https://fraud-detection-supervised-models.streamlit.app/) | [SUPERVISED MODELS) |
 ---
 
 ## License
