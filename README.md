@@ -1,9 +1,9 @@
 
 # Fraud Detection in Instant Payment Systems
 
-This project demonstrates **real-time fraud detection** in Instant Payment Systems (IPS) using **machine learning**.  
-It implements **supervised**, **unsupervised**, and **semi-supervised** models to compare accuracy, detection time, and overall performance.  
-The application is built with **Streamlit** and uses simulated transaction data to replicate a live streaming environment.
+This project demonstrates real-time fraud detection in Instant Payment Systems (IPS) using **machine learning**.  
+It implements supervised, unsupervised and semi-supervised models to compare accuracy, detection time, and overall performance.  
+The application is built with Streamlit and uses simulated transaction data to replicate a live streaming environment.
 
 ---
 
@@ -24,6 +24,11 @@ Users can upload datasets, train models, visualize performance metrics, and meas
 - Synthetic data generation for simulation and benchmarking  
 
 ---
+##How Project Works
+1. Generate datasets using the scripts in `generate_data`.  
+   - These scripts output CSV files representing simulated transaction data.  
+2. Run the Streamlit app to test the models using the generated data.  
+   - Each app (supervised, unsupervised, or semi-supervised) can be run independently.
 
 ## Tech Stack
 
