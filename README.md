@@ -1,24 +1,30 @@
-# Fraud-Detection
-Generated fraud detection in Instant Payment Systems using multiple machine learning approaches (supervised, unsupervised, semi-supervised)
 
 # Fraud Detection in Instant Payment Systems
 
-This project demonstrates **real-time fraud detection** in Instant Payment Systems using **machine learning**. 
-It features **supervised, unsupervised, and semi-supervised** models, allowing users to compare accuracy, detection time, and overall performance.  
-The app is built with **Streamlit** and simulates a live transaction stream for interactive testing.
+This project demonstrates **real-time fraud detection** in Instant Payment Systems (IPS) using **machine learning**.  
+It implements **supervised**, **unsupervised**, and **semi-supervised** models to compare accuracy, detection time, and overall performance.  
+The application is built with **Streamlit** and uses simulated transaction data to replicate a live streaming environment.
 
 🔗 **Live Demo:** [https://yourusername-frauddetector.streamlit.app](https://yourusername-frauddetector.streamlit.app)  
 📂 **Source Code:** [https://github.com/sharhaynes/Fraud-Detection](https://github.com/sharhaynes/Fraud-Detection)
 
 ---
 
+## Overview
+
+The system evaluates multiple machine learning approaches for identifying fraudulent transactions in IPS data.  
+Users can upload datasets, train models, visualize performance metrics, and measure detection time across models.
+
+---
+
 ## Features
 
-- Compare **supervised**, **unsupervised**, and **semi-supervised** models  
-- Measure detection time per transaction (based on simulation steps)  
-- Visualize results with ROC curves, confusion matrices, and metrics  
-- Built with Streamlit for a fully interactive web experience  
-- Simulated transaction data to replicate real-time fraud detection
+- Evaluation of supervised, unsupervised, and semi-supervised models  
+- Comparison of model accuracy, precision, recall, F1-score, and AUC  
+- Measurement of detection time per transaction (based on simulation steps)  
+- Visualization of confusion matrices and ROC curves  
+- Streamlit-based interactive interface for model testing and analysis  
+- Synthetic data generation for simulation and benchmarking  
 
 ---
 
@@ -34,14 +40,18 @@ The app is built with **Streamlit** and simulates a live transaction stream for 
 
 ---
 
-## Models Included
+## Models Implemented
 
-- **Supervised Learning:** Logistic Regression, Random Forest, XGBoost (optional)
-- **Unsupervised Learning:** Isolation Forest, One-Class SVM
-- **Semi-Supervised Learning:** Label Propagation / Self-training model
+- **Supervised Learning:** Logistic Regression, Decision Tree, Random Forest, Support Vector Machine  
+- **Unsupervised Learning:** Isolation Forest, One-Class SVM  
+- **Semi-Supervised Learning:** Label Propagation / Self-training Classifier  
 
 ---
 
-##  How to Run Locally
+## Running the Application Locally
 
-1. **Clone this repository**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sharhaynes/Fraud-Detection.git
+   cd Fraud-Detection
+*
