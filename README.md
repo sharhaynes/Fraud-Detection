@@ -6,7 +6,7 @@ It implements supervised, unsupervised and semi-supervised models to compare acc
 The application is built with Streamlit and uses simulated transaction data to replicate a live streaming environment.
 
 ---
-![Fraud Deection Demo](FraudDetectinoDemo.gif)
+![Fraud Deection Demo](FraudDetectionDemo.gif)
 
 
 ## Overview
